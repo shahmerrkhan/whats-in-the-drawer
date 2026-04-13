@@ -1,10 +1,6 @@
 
 """"
-Name : Muhammad Shahmeer Khan
-Due Date : 07/01/2026
-Title : Whats in the drawer
 Description : A program to play the game "Whats in the drawer" that uses list to function. 
-
 """
 
 item = ["pens","pencils","eraser","paper clips","sticky notes","scissors","tape","stapler","rubber bands","notepad","highlighter","marker","glue stick","sharpener","ruler","flash drive","coins","keys","batteries","safety pins","calculator","envelopes","stickers","old receipts","small notebook","thumbtacks","cable clips","magnets","chapstick","snacks","gum","hair tie","paper knife","postcards","photos","small toy","buttons","nail clippers"]
